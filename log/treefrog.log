@@ -1,0 +1,46 @@
+2021-01-28 11:46:02 INFO  [1786] TreeFrog Framework version 1.30.0
+2021-01-28 11:46:02 INFO  [1786] Execution environment: Qt 5.12.8 / Ubuntu 20.04.1 LTS
+2021-01-28 11:46:02 INFO  [1786] TreeFrog application servers started up.
+2021-01-28 11:46:13 WARN  [1891] Recieved a tampered cookie or that of other web application.
+2021-01-28 11:46:13 ERROR [1891] SQL database open error: rdb00_127
+2021-01-28 11:46:13 ERROR [1891] Can not begin transaction. Invalid database: 
+2021-01-28 11:46:13 ERROR [1891] SQL database open error: rdb00_127
+2021-01-28 11:46:13 ERROR [1891] Can not begin transaction. Invalid database: 
+2021-01-28 11:47:54 INFO  [1786] TreeFrog application servers shutting down
+2021-01-28 11:47:55 INFO  [1786] TreeFrog application servers shutdown completed
+2021-01-28 11:47:56 INFO  [1929] TreeFrog Framework version 1.30.0
+2021-01-28 11:47:56 INFO  [1929] Execution environment: Qt 5.12.8 / Ubuntu 20.04.1 LTS
+2021-01-28 11:47:56 INFO  [1929] TreeFrog application servers started up.
+2021-01-28 11:47:59 ERROR [2064] SQL database open error: rdb00_127
+2021-01-28 11:47:59 ERROR [2064] Can not begin transaction. Invalid database: 
+2021-01-28 11:47:59 ERROR [2064] SQL database open error: rdb00_127
+2021-01-28 11:47:59 ERROR [2064] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:01 ERROR [2076] SQL database open error: rdb00_127
+2021-01-28 11:48:01 ERROR [2076] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:01 ERROR [2076] SQL database open error: rdb00_127
+2021-01-28 11:48:01 ERROR [2076] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:04 INFO  [1929] TreeFrog application servers shutting down
+2021-01-28 11:48:11 WARN  [2076] Reading a socket timed out after 10 seconds. Descriptor:10
+2021-01-28 11:48:11 INFO  [1929] TreeFrog application servers shutdown completed
+2021-01-28 11:48:35 INFO  [2142] TreeFrog Framework version 1.30.0
+2021-01-28 11:48:35 INFO  [2142] Execution environment: Qt 5.12.8 / Ubuntu 20.04.1 LTS
+2021-01-28 11:48:35 INFO  [2142] TreeFrog application servers started up.
+2021-01-28 11:48:39 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:39 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:39 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:39 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:45 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:45 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:45 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:45 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:45 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:45 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:45 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:45 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:47 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:47 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:47 ERROR [2270] SQL database open error: rdb00_127
+2021-01-28 11:48:47 ERROR [2270] Can not begin transaction. Invalid database: 
+2021-01-28 11:48:57 WARN  [2270] Reading a socket timed out after 10 seconds. Descriptor:10
+2021-01-28 11:58:59 INFO  [2142] TreeFrog application servers shutting down
+2021-01-28 11:59:00 INFO  [2142] TreeFrog application servers shutdown completed

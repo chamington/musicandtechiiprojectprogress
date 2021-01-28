@@ -1,0 +1,23 @@
+2021-01-28 11:46:13 ERROR [1891] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:46:13 ERROR [1891] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:46:13 WARN  [1891] socket write error: total:0 (-1)
+2021-01-28 11:47:59 ERROR [2064] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:47:59 ERROR [2064] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:47:59 WARN  [2064] socket write error: total:0 (-1)
+2021-01-28 11:48:01 ERROR [2076] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:01 ERROR [2076] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:39 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:39 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:45 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:45 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:45 WARN  [2270] invalid name: id
+2021-01-28 11:48:45 WARN  [2270] invalid name: title
+2021-01-28 11:48:45 WARN  [2270] invalid name: body
+2021-01-28 11:48:45 WARN  [2270] invalid name: created_at
+2021-01-28 11:48:45 WARN  [2270] invalid name: updated_at
+2021-01-28 11:48:45 WARN  [2270] invalid name: lock_revision
+2021-01-28 11:48:45 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:45 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:45 WARN  [2270] SQL statement error, no fields to insert
+2021-01-28 11:48:47 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
+2021-01-28 11:48:47 ERROR [2270] Database open error. Invalid database settings, or maximum number of SQL connection exceeded.
